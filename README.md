@@ -4,7 +4,6 @@ Fake News Detection project will create a fake news detection model to classify 
 This project includes: 
 <strong>
 - Natural Language Processing and Machine Learning skills
-- How to represent text in a machine
-- Understandable format to classify the text and extract whether the news is fake or real
+- How to represent text in a machine-understandable format to classify the text and extract whether the news is fake or real
 - Visualizations and how to deploy models in the real world
 </strong>
